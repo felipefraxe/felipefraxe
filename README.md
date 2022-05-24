@@ -2,8 +2,8 @@
 
 <header>
   <a href="https://github.com/felipefraxe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefraxe&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefraxe&layout=compact&langs_count=7&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipefraxe&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefraxe&layout=compact&langs_count=7&theme=light"/>
 </header>
 
 ## Languages and Tools
