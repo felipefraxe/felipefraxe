@@ -1,6 +1,6 @@
 ## Hello, there 👋! I'm Felipe Fraxe, software engineer student
 
-# I love computer science, in particular Artificial Intelligence and Web Development (Fullstack)
+### I love computer science, in particular Artificial Intelligence and Web Development (Fullstack)
 
 * 🌍  I'm based in Manaus, Amazonas, Brazil 🇧🇷
 * ✉️  You can contact me at Linkedin or E-mail [felipe_fraxe@hotmail.com](mailto:felipe_fraxe@hotmail.com)
