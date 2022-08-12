@@ -5,7 +5,7 @@
 * 🌍  I'm based in Manaus, Amazonas, Brazil 🇧🇷
 * ✉️  You can contact me at Linkedin or E-mail [felipe_fraxe@hotmail.com](mailto:felipe_fraxe@hotmail.com)
 * 🧠  I'm currently learning Web Development with technologies such as Python and JavaSript
-* 🤝  I'm open to work as a Jr developer helping building Web Apps
+* 🤝  I'm open to work as a Jr developer, building Web Apps
 
 <header>
   <a href="https://github.com/felipefraxe">
