@@ -1,4 +1,4 @@
-## Hello, there 👋! I'm Felipe Fraxe, software engineer student
+## Hello, there 👋! I'm Felipe Fraxe, Computer Science student
 
 ### I love computer science, in particular Artificial Intelligence and Web Development (Fullstack)
 
