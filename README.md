@@ -52,7 +52,4 @@
   <a href="https://www.linkedin.com/in/felipefraxe" target="_blank">
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />    
   </a> 
-  <a href="mailto:felipe_fraxe@hotmail.com" target="_blank">
-    <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Outlook_hi-res_icon_%282019%29.svg/512px-Outlook_hi-res_icon_%282019%29.svg.png?20191215212325" />
-  </a>
 </section>
