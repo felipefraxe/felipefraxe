@@ -1,4 +1,4 @@
-## Hello, there 👋! I'm Felipe Fraxe, Computer Science student
+## Hello, there 👋! I'm Felipe Fraxe, Computer Science undergraduate
 
 ### I love computer science
 
@@ -40,6 +40,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticsearch.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
