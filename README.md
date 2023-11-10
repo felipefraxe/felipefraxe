@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Manaus, Amazonas, Brazil 🇧🇷
 * ✉️  You can contact me at Linkedin or E-mail [felipe_fraxe@hotmail.com](mailto:felipe_fraxe@hotmail.com)
-* 🧠  I'm currently graduating in Computer Science in Institute of Computing (IComp) - Federal University of Amazonas (UFAM)
+* 🧠  I'm currently graduating in Computer Science at Institute of Computing (IComp) - Federal University of Amazonas (UFAM)
 * 🤝  I'm open to work as a Jr Software Engineer
 <header>
   <a href="https://github.com/felipefraxe">
