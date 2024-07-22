@@ -6,6 +6,7 @@
 * ✉️  You can contact me at Linkedin or E-mail [felipe_fraxe@hotmail.com](mailto:felipe_fraxe@hotmail.com)
 * 🧠  I'm currently graduating in Computer Science at Institute of Computing (IComp) - Federal University of Amazonas (UFAM)
 * 🤝  I'm open to work as a Jr Software Engineer
+* ❤️  Focused on Information Retrievel Systems
 <header>
   <a href="https://github.com/felipefraxe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipefraxe&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
