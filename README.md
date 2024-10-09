@@ -2,7 +2,7 @@
 
 ### I love computer science
 
-* 🌍  I'm based in Manaus, Amazonas, Brazil 🇧🇷
+* 🌍  I'm based in Brazil 🇧🇷
 * ✉️  You can contact me at Linkedin or E-mail [felipe_fraxe@hotmail.com](mailto:felipe_fraxe@hotmail.com)
 * 🧠  I'm currently graduating in Computer Science at Institute of Computing (IComp) - Federal University of Amazonas (UFAM)
 * ❤️  Focused on Information Retrievel Systems and Machine Learning
