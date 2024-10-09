@@ -5,8 +5,7 @@
 * 🌍  I'm based in Manaus, Amazonas, Brazil 🇧🇷
 * ✉️  You can contact me at Linkedin or E-mail [felipe_fraxe@hotmail.com](mailto:felipe_fraxe@hotmail.com)
 * 🧠  I'm currently graduating in Computer Science at Institute of Computing (IComp) - Federal University of Amazonas (UFAM)
-* 🤝  I'm open to work as a Jr Software Engineer
-* ❤️  Focused on Information Retrievel Systems
+* ❤️  Focused on Information Retrievel Systems and Machine Learning
 <header>
   <a href="https://github.com/felipefraxe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipefraxe&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
@@ -23,28 +22,19 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </section>
-
-### Frontend
-<section>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="45px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</section>
   
-### Backend
+### Tools
 <section>
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticsearch.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticsearch.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </section>
 
