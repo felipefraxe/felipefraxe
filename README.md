@@ -1,4 +1,4 @@
-## Hello, there 👋! I'm Felipe Fraxe, Computer Science undergraduate
+## Hello, there 👋! I'm Felipe Fraxe, Software Engineer
 
 ### I love computer science
 
